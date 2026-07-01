@@ -164,7 +164,7 @@ export function Sidebar({ open, onClose }: SidebarProps) {
         </nav>
 
         <div className="space-y-3">
-          <div className="rounded-[1.5rem] border border-primary/15 bg-primary/10 p-4">
+          {/* <div className="rounded-[1.5rem] border border-primary/15 bg-primary/10 p-4">
             <p className="text-sm font-black text-ink">
               Clean assignment build
             </p>
@@ -172,7 +172,7 @@ export function Sidebar({ open, onClose }: SidebarProps) {
               Protected routes, Redux state, Axios services, and custom UI
               components.
             </p>
-          </div>
+          </div> */}
 
           <button
             type="button"
